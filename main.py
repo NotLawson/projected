@@ -1,4 +1,5 @@
-import json as j
-client_information=open("client_information.json", "r")
-client_information=j.load(client_information)
-print(client_information)
+# projected
+# A CLI to set up you projects better
+
+## imports
+# TODO lol
